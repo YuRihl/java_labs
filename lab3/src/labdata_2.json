@@ -1,0 +1,43 @@
+[
+  {
+    "model": "Renault Cangoo",
+    "price": 7600,
+    "maxSpeed": 160
+  },
+
+  {
+    "model": "Skoda Superb",
+    "price": 8600,
+    "maxSpeed": 180
+  },
+
+  {
+    "model": "Hyundai Tucson",
+    "price": 43000,
+    "maxSpeed": 210
+  },
+
+  {
+    "model": "Peugeot 5008",
+    "price": 11000,
+    "maxSpeed": 180
+  },
+
+  {
+    "model": "Ford Focus",
+    "price": 12000,
+    "maxSpeed": 170
+  },
+
+  {
+    "model": "Nissan X-Trail",
+    "price": 14000,
+    "maxSpeed": 170
+  },
+
+  {
+    "model": "Lexus ES 350",
+    "price": 28000,
+    "maxSpeed": 220
+  }
+]

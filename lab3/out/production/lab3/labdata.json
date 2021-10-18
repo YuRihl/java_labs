@@ -1,0 +1,72 @@
+[
+    [
+        {
+            "model": "Renault Megane",
+            "price": 28000,
+            "maxSpeed": 170
+        },
+        {
+            "model": "Citroen C3",
+            "price": 21000,
+            "maxSpeed": 170
+        },
+        {
+            "model": "Wolkswagen Transporter",
+            "price": 42000,
+            "maxSpeed": 170
+        }
+    ],
+
+    [
+        {
+            "model": "Wolkswagen Passat",
+            "price": 40000,
+            "maxSpeed": 200
+        },
+        {
+            "model": "Toyota Corolla",
+            "price": 26000,
+            "maxSpeed": 200
+        },
+        {
+            "model": "Subaru Forester",
+            "price": 35000,
+            "maxSpeed": 200
+        }
+    ],
+
+    [
+        {
+            "model": "Tesla Model 3 Performance",
+            "price": 55000,
+            "maxSpeed": 250
+        },
+        {
+            "model": "Audi Q5",
+            "price": 72000,
+            "maxSpeed": 250
+        },
+        {
+            "model": "BMW X5",
+            "price": 67000,
+            "maxSpeed": 250
+        }
+    ],
+    [
+        {
+            "model": "Rolls-Royce Cullinan",
+            "price": 635000,
+            "maxSpeed": 300
+        },
+        {
+            "model": "Porsche Panamera",
+            "price": 210000,
+            "maxSpeed": 300
+        },
+        {
+            "model": "Lamborghini Urus",
+            "price": 410000,
+            "maxSpeed": 300
+        }
+    ]
+]
