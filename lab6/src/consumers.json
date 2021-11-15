@@ -1,0 +1,56 @@
+[
+    {
+        "Name": "Davidson",
+        "Surname": "Sanchez",
+        "Email": "davidson_sanchez@gmail.com",
+        "BookList": [
+            {
+                "Name": "Harry Potter",
+                "BookReleaseYear": 1971,
+                "Author": "Rowling",
+                "StartUsingDate": "2020-06-20",
+                "EndUsingDateExpected": "2021-06-20",
+                "EndUsingDateActual": "2021-03-05"
+            },
+            {
+                "Name": "On fire",
+                "BookReleaseYear": 1995,
+                "Author": "Naomi Klein",
+                "StartUsingDate": "2020-10-10",
+                "EndUsingDateExpected": "2021-10-10",
+                "EndUsingDateActual": "2021-08-09"
+            }
+        ]
+    },
+    {
+        "Name": "Luka",
+        "Surname": "Show",
+        "Email": "luka_show@gmail.com",
+        "BookList": [
+            {
+                "Name": "The little prince",
+                "BookReleaseYear": 1998,
+                "Author": "Exupery",
+                "StartUsingDate": "2020-01-25",
+                "EndUsingDateExpected": "2021-05-25",
+                "EndUsingDateActual": "2021-09-05"
+            },
+            {
+                "Name": "Normal People",
+                "BookReleaseYear": 2018,
+                "Author": "Sally Rooney",
+                "StartUsingDate": "2021-02-18",
+                "EndUsingDateExpected": "2021-09-18",
+                "EndUsingDateActual": "2021-10-04"
+            },
+            {
+                "Name": "Alice in Wonderland",
+                "BookReleaseYear": 2018,
+                "Author": "Lewis Carroll",
+                "StartUsingDate": "2020-07-29",
+                "EndUsingDateExpected": "2020-11-01",
+                "EndUsingDateActual": "2020-09-16"
+            }
+        ]
+    }
+]
